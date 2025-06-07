@@ -1,0 +1,18 @@
+addappid(13600)
+addappid(13601,0,"c1219f4917c48071fbec7da890c82e2b07dc3152b52549c69d7a78cf43a456b7")
+setManifestid(13601,"364195791120899757")
+addappid(13602,0,"ce4378f684d987d25d05a1388849c71b166e4c23f27b0fea92aac65d2581f5a2")
+setManifestid(13602,"5745403209305655007")
+addappid(13603,0,"6da03859cded054b5bec5c76bbf25c79cb4edc5d8472200baaeac724878e9daf")
+setManifestid(13603,"9099042208366662290")
+addappid(13604,0,"b6ce7d8a754852560e3fe4eecef775b4ae55525e0906c0f1365c5f2b3e01a9d0")
+setManifestid(13604,"5084228021231001796")
+addappid(13605,0,"1bd0bfb456798480557a2ee2a2726150fab0920679cd05f9e8ee9df3cada7b62")
+setManifestid(13605,"7257331853749252989")
+addappid(13606,0,"5239d2b0fa93c9c55a17498d2264500e7cfdbbd420d184c89535a166a77fc8a6")
+setManifestid(13606,"4659852900498109494")
+-- Welcome To XWORLD
+-- Website Link: https://bandoofficial.xyz/xworld
+-- Discord Link: https://discord.gg/KSE2fNcXHq
+-- Enjoy
+-- @Saito.Kurosaki
