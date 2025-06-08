@@ -1,0 +1,21 @@
+-- This lua file has been fetched from the bot VICTOR which is the exclusive property of Piracy Lords server.
+-- Redistribution of VICTORs files is not allowed AT ALL
+-- Join the offical here: https://discord.gg/piracylords
+
+addappid(2183900) 
+addtoken(2183900, "12779763340560861411")
+addappid(2183901, 1, "8df236a6a5084039477362b31157e7e0eb66554a744762d6782c544ab64d0c4e") 
+setManifestid(2183901, "1402240209931868812", 0)
+addappid(3202690, 1, "00c47f82b08192958b11307abb87c755003eb8dfae75063373e379c296b26083") 
+setManifestid(3202690, "7038592287560796420", 0)
+addappid(3212040, 1, "e3818ce0f203d78eed2647e6364bd19a702fd8d7a01230f77a038e0fd26b0ffb")
+setManifestid(3212040, "7457655780363166458", 0)
+addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") 
+setManifestid(228989, "550968249685141759", 0)
+addappid(3212020)
+addappid(3212021, 1, "01e7d7bd4abcb8946df7226afc08075b26c702659cf81018580d5f8e597b6c93")
+setManifestid(3212021, "4575728820807956562", 0)
+addappid(3212022, 1, "924f67387bb12cfc2988a7decd11c8ace7b5b38ae9d07397e246b36d01c1e5c5") 
+setManifestid(3212022, "2274340000490854200", 0)
+addappid(3212023, 1, "ad43f8052145e7fad816f6b2299a1ae217fc78bd8e1c769cb0ad3e0272d843d0") 
+setManifestid(3212023, "4686517121168409350", 0)
