@@ -1,6 +1,8 @@
+-- This lua file has been fetched from the bot VICTOR which is the exclusive property of Piracy Lords server.
+-- Redistribution of VICTORs files is not allowed AT ALL
+-- Join the official here: https://discord.gg/piracylords
+
 addappid(952060)
-addappid(228988)
-setManifestid(228988,"6645201662696499616")
 addappid(228990)
 setManifestid(228990,"1829726630299308803")
 addappid(952061,0,"59cd6a454139aeaf999cc3dde8aeb2e0c4dd0e1264c9d87bf0a7e702d892e68a")
